@@ -43,14 +43,9 @@ const questions = [
     {
         type: 'input',
         name: 'how',
-        message: 'How will someone use this?',
+        message: 'How will this benefit the user?',
     },
 
-    {
-        type: 'input',
-        name: 'table of content',
-        message: 'Kindly list the table of contents for this project',
-    },
 
     {
         type: 'input',
